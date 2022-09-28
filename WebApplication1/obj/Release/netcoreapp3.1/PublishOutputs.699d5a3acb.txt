@@ -1,0 +1,7 @@
+C:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\APIWebPoc.exe
+C:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\APIWebPoc.dll
+C:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\APIWebPoc.deps.json
+C:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\APIWebPoc.runtimeconfig.json
+C:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Release\netcoreapp3.1\PubTmp\Out\APIWebPoc.pdb

@@ -1,0 +1,59 @@
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.exe
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.deps.json
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.runtimeconfig.json
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.runtimeconfig.dev.json
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.dll
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.pdb
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.AssemblyInfoInputs.cache
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.AssemblyInfo.cs
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.csproj.CoreCompileInputs.cache
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\APIWebPoc.StaticWebAssets.Manifest.cache
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\APIWebPoc.StaticWebAssets.xml
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIWebPoc.styles.css
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.RazorTargetAssemblyInfo.cache
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.dll
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.pdb
+C:\Users\scianma\source\repos\API Rest OS\API Rest\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.genruntimeconfig.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.exe
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.deps.json
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.runtimeconfig.json
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.runtimeconfig.dev.json
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.dll
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.pdb
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.csprojAssemblyReference.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.AssemblyInfoInputs.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.AssemblyInfo.cs
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.csproj.CoreCompileInputs.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\APIWebPoc.StaticWebAssets.Manifest.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\APIWebPoc.StaticWebAssets.xml
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIWebPoc.styles.css
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.RazorTargetAssemblyInfo.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.dll
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.pdb
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-DotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.genruntimeconfig.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.exe
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.deps.json
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.runtimeconfig.json
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.runtimeconfig.dev.json
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.dll
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\bin\Debug\netcoreapp3.1\APIWebPoc.pdb
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.csprojAssemblyReference.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.AssemblyInfoInputs.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.AssemblyInfo.cs
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.csproj.CoreCompileInputs.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\APIWebPoc.StaticWebAssets.Manifest.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\APIWebPoc.StaticWebAssets.xml
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIWebPoc.styles.css
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.RazorTargetAssemblyInfo.cache
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.dll
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.pdb
+c:\Users\scianma\OneDrive - Danone\0.IT-Arq\0.Grupo\8.POCs\it-archi-south-cone.POC-APIDotNetContainer\WebApplication1\obj\Debug\netcoreapp3.1\APIWebPoc.genruntimeconfig.cache
